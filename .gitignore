@@ -2,3 +2,4 @@
 .metadata/.log
 .metadata/.log4j2.xml
 .metadata/version.ini
+.metadata/.plugins/org.eclipse.cdt.core/.log
